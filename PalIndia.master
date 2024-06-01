@@ -1,0 +1,14 @@
+﻿<%@ Master Language="VB" CodeFile="PalIndia.master.vb" Inherits="MasterPage" %>
+
+<head runat="server">
+    <title>palindia</title>
+   <link rel="stylesheet" href="~/style/Greysoft.css" type="text/css">
+</head>
+<body>
+  <p>pranav</p>
+        <asp:ContentPlaceHolder id="C1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+   <p>pal india</p>
+</body>
+</html>

@@ -1,0 +1,8 @@
+﻿<%@ Master Language="VB" MasterPageFile="~/PalIndia.master" CodeFile="Trainer.master.vb" Inherits="Trainer" %>
+
+
+      <asp:Content ID="t1" ContentPlaceHolderID="C1" runat="server">
+
+          trainer are wwll connected with each other
+         <asp:ContentPlaceHolder ID="professional" runat="server"></asp:ContentPlaceHolder>
+      </asp:Content>
